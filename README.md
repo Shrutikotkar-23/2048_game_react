@@ -49,36 +49,6 @@ https://github.com/pawantech12/2048-game-using-reactjs/assets/118673866/3c74a363
 </div>
 
 
-<div id="installation">
-  
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-
-
-```bash
-  git clone https://github.com/pawantech12/2048-game-using-reactjs.git
-  cd 2048-game-using-reactjs-master
-```
-
-2. Install the dependencies:
-
-```bash
-npm i or npm install
-```
-
-3. Start the development server:
-
-```bash
-npm run dev
-```
-
-4. Open your browser and navigate to http://localhost:5173
-
-</div>
-
 <div id="usage">
   
 ## Usage
